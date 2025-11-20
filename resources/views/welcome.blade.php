@@ -12,8 +12,7 @@
 <a href="/page/gallery">Gallery</a>
 <br>
 <a href="/page/slider">Slider</a>
-<br>
-<a href="/page/test">Test</a>
+
 
 @foreach ($collection as $item)
     
